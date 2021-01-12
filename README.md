@@ -14,6 +14,9 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+  
+  
+  ![alt text](img.png)
 
 ## User Story
 AS AN avid traveller
